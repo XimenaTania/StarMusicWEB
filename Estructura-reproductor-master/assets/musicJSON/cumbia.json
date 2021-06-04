@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "playlist": "cumbia",
+        "artista": "Histeria",
+        "nombre": "Ya vives en mi",
+        "url": "assets/music/cumbia/HISTERIA YA NO VIVES EN MI.mp3 ",
+        "duracion": 215
+    },
+    {
+        "id": 1,
+        "playlist": "cumbia",
+        "artista": "Sabor Sabor",
+        "nombre": "Quien no lloro por amor",
+        "url": "assets/music/cumbia/Quien no lloro por amor Grupo Sabor Sabor.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "cumbia",
+        "artista": "Soledad",
+        "nombre": "Lejos de Ti",
+        "url": "assets/music/cumbia/Soledad-Lejos de Ti.mp3",
+        "duracion": 158
+    }
+]

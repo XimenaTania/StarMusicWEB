@@ -1,0 +1,114 @@
+[{
+        "id": 1,
+        "playlist": "rock",
+        "artista": "Atajo",
+        "nombre": "Hoja Verde",
+        "url": "assets/music/rock Nacional/Atajo-Hoja verde.mp3",
+        "duracion": 209
+    },
+    {
+        "id": 2,
+        "playlist": "rock",
+        "artista": "Alcoholika",
+        "nombre": "Celia",
+        "url": "assets/music/rock Nacional/Alcoholika-Celia.mp3",
+        "duracion": 344
+    },
+    {
+        "id": 3,
+        "playlist": "rock",
+        "artista": "Alcoholika",
+        "nombre": "Celia II",
+        "url": "assets/music/rock Nacional/Alcoholika La Christo-Celia.mp3",
+        "duracion": 198
+    },
+    {
+        "id": 4,
+        "playlist": "rock",
+        "artista": "Alcoholika & Lusmila Carpio",
+        "nombre": "WarmiKuna",
+        "url": "assets/music/rock Nacional/ALCOHOLIKA LA CHRISTO Warmikuna.mp3",
+        "duracion": 200
+    },
+    {
+        "id": 5,
+        "playlist": "rock",
+        "artista": "4 Non Blondes",
+        "nombre": "What`s Up",
+        "url": "assets/music/rock/5-Whats-up.mp3",
+        "duracion": 298
+    },
+
+    {
+        "id": 6,
+        "playlist": "rock",
+        "artista": "AC/DC",
+        "nombre": "Back In Black",
+        "url": "assets/music/rock/6-Back-In-Black.mp3",
+        "duracion": 254
+    },
+    {
+        "id": 7,
+        "playlist": "rock",
+        "artista": "Bon Jovi",
+        "nombre": "It`s My Life",
+        "url": "assets/music/rock/7-its-my-life.mp3",
+        "duracion": 267
+    },
+    {
+        "id": 8,
+        "playlist": "rock",
+        "artista": "Bon Jovi",
+        "nombre": "Always",
+        "url": "assets/music/rock/8-Always.mp3",
+        "duracion": 362
+    },
+    {
+        "id": 9,
+        "playlist": "rock",
+        "artista": "Guns And Roses",
+        "nombre": "November Rain",
+        "url": "assets/music/rock/9-november-rain.mp3",
+        "duracion": 547
+    },
+    {
+        "id": 10,
+        "playlist": "rock",
+        "artista": "Aerosmith",
+        "nombre": "Crazy",
+        "url": "https://open.spotify.com/track/6CIDsqMEEsBJf5Cv6RbuGw?si=DH3-lh-uRg6h5Sl3GMjDAQ",
+        "duracion": 375
+    },
+    {
+        "id": 11,
+        "playlist": "rock",
+        "artista": "Maroon 5",
+        "nombre": "Memories",
+        "url": "http://mus6.musicafm.club/mp3/3e28ac4f-5cf9-4343-b0ef-4f8d70caba8a.mp3",
+        "duracion": 375
+    },
+    {
+        "id": 12,
+        "playlist": "rock",
+        "artista": "The Outfield",
+        "nombre": "Your Love",
+        "url": "http://mus3.musicafm.club/mp3/e99df7dd-7dd6-459e-812f-4755739bd299.mp3",
+        "duracion": 216
+    },
+    {
+        "id": 13,
+        "playlist": "rock",
+        "artista": "AC/DC",
+        "nombre": "highway to hell",
+        "url": "http://mus1.musicafm.club/mp3/7396d6e2-085f-450c-9560-51ee75ae3b48.mp3",
+        "duracion": 252
+    },
+    {
+        "id": 14,
+        "playlist": "rock",
+        "artista": "A ha",
+        "nombre": "Take On Me !!!",
+        "url": "assets/music/rock/14-take-on-me.mp3",
+        "duracion": 252
+    }
+]

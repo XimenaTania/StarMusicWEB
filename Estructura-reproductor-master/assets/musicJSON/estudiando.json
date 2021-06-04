@@ -1,0 +1,27 @@
+[{
+        "id": 1,
+        "playlist": "estudiar",
+        "artista": "Mozart",
+        "nombre": "Lacrimosa",
+        "url": "assets/music/estudiar/1.God of War.mp3",
+        "duracion": 200
+    },
+    {
+        "id": 2,
+        "playlist": "estudiar",
+        "artista": "Mozart",
+        "nombre": "Symphony-40",
+        "url": "assets/music/estudiar/Coraline.mp3",
+        "duracion": 448
+    },
+    {
+        "id": 3,
+        "playlist": "estudiar",
+        "artista": "Mozart",
+        "nombre": "RondoAllaTurca",
+        "url": "assets/music/estudiar/Gilbert.mp3",
+        "duracion": 211
+    }
+
+
+]

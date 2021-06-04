@@ -1,0 +1,113 @@
+[{
+        "id": 1,
+        "playlist": "Carnabalito",
+        "artista": "Atajo",
+        "nombre": "Hoja verde de la coca",
+        "url": "assets/music/Carnabalito/Atajo-Hoja verde.mp3",
+        "duracion": 215
+    },
+    {
+        "id": 1,
+        "playlist": "Carnabalito",
+        "artista": "Atajo",
+        "nombre": "Pulga Presidente",
+        "url": "assets/music/Carnabalito/ATAJO-Pulga Presidente.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Carnabalito",
+        "artista": "Tierra Alta",
+        "nombre": "Quiero",
+        "url": "assets/music/Carnabalito/Tierra Alta Quiero.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Cala75",
+        "nombre": "Presiosa es tu palabra",
+        "url": "assets/music/Cristiana/Cala75.mp3",
+        "duracion": 215
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Canto Nuevo",
+        "nombre": "Te amo",
+        "url": "assets/music/Cristiana/CANTO NUEVO BOLIVIA - TE AMO.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Canto nuevo",
+        "nombre": "Dios Supremo",
+        "url": "assets/music/Cristiana/CANTO NUEVO BOLIVIA - DIOS SUPREMO.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Por Gracia",
+        "nombre": "Corona de Oro",
+        "url": "assets/music/Cristiana/Por Gracia CORONA DE ORO.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Por Gracia",
+        "nombre": "Para que me diste vida",
+        "url": "assets/music/Cristiana/Por Gracia Para que me diste Vida.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Por Gracia",
+        "nombre": "Te alabare",
+        "url": "assets/music/Cristiana/Por Gracia Popurry Te Alabare Jesus.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Por Gracia",
+        "nombre": "Popurry",
+        "url": "assets/music/Cristiana/Por Gracia REMIX.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "Cristiana",
+        "artista": "Himno",
+        "nombre": "Por que el vive",
+        "url": "assets/music/Cristiana/porq el vive.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "cumbia",
+        "artista": "Histeria",
+        "nombre": "Ya vives en mi",
+        "url": "assets/music/cumbia/HISTERIA YA NO VIVES EN MI.mp3 ",
+        "duracion": 215
+    },
+    {
+        "id": 1,
+        "playlist": "cumbia",
+        "artista": "Sabor Sabor",
+        "nombre": "Quien no lloro por amor",
+        "url": "assets/music/cumbia/Quien no lloro por amor Grupo Sabor Sabor.mp3",
+        "duracion": 158
+    },
+    {
+        "id": 1,
+        "playlist": "cumbia",
+        "artista": "Soledad",
+        "nombre": "Lejos de Ti",
+        "url": "assets/music/cumbia/Soledad-Lejos de Ti.mp3",
+        "duracion": 158
+    }
+]
